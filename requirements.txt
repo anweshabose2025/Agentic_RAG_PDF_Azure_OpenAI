@@ -1,0 +1,11 @@
+langchain
+faiss-cpu
+tiktoken
+langchain-community
+pypdf
+sentence-transformers
+langchain_huggingface
+streamlit
+langchain_openai
+#conda activate "D:\AI_Projects\RAG_PDF\venv"
+#pip install -r requirements.txtS
