@@ -7,5 +7,6 @@ sentence-transformers
 langchain_huggingface
 streamlit
 langchain_openai
+#python == 3.13
 #conda activate "D:\AI_Projects\RAG_PDF\venv"
 #pip install -r requirements.txtS
